@@ -29,6 +29,7 @@ public class mode4 {
 
 	public static void main(String[] args) {
 		int[] numbers = { 0, 1, 2, 3, 4, 3, 3, 3, 4, 2 };
+		// int[] numbers = { 0, 2, 1, 2, 3, 2, 1 };
 
 		int ret = 0;
 
